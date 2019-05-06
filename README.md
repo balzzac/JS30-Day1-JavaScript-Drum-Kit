@@ -1,4 +1,4 @@
-# Javascript 30 Challenge. Day 1 JavaScript Drum Kit
+# JavaScript 30 Challenge. Day 1 JavaScript Drum Kit
 
 > Based on https://javascript30.com/
 
